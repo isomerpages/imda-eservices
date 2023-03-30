@@ -8,7 +8,6 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: IMDA eServices
-      subtitle: Hero subtitle
       background: /images/hero-banner.png
       dropdown:
         title: View list of eServices
