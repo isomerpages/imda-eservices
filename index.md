@@ -12,13 +12,13 @@ sections:
       dropdown:
         title: View list of eServices
         options:
-          - title: Digital Access Program (DAS)
+          - title: DAS
             url: https://eservice.imda.gov.sg/das/homepage
           - title: NEU PC
             url: https://eservice.imda.gov.sg/neupc/homepage.action
-          - title: Numbers Online Reg System
+          - title: NORS
             url: https://eservice.imda.gov.sg/nors/homepage.jsp
-          - title: "Telecomm Licensing System "
+          - title: "TLS "
             url: https://eservice.imda.gov.sg/tls/login.action
           - title: ICMS
             url: https://eservice.imda.gov.sg/icms/initializeHomePage.action
