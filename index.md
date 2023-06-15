@@ -14,14 +14,14 @@ sections:
         options:
           - title: DAS
             url: https://eservice.imda.gov.sg/das/homepage
+          - title: ICMS
+            url: https://eservice.imda.gov.sg/icms/initializeHomePage.action
           - title: NEU PC
             url: https://eservice.imda.gov.sg/neupc/homepage.action
           - title: NORS
             url: https://eservice.imda.gov.sg/nors/homepage.jsp
-          - title: "TLS "
-            url: https://eservice.imda.gov.sg/tls/login.action
-          - title: ICMS
-            url: https://eservice.imda.gov.sg/icms/initializeHomePage.action
           - title: SDO Engage
             url: https://eservice.imda.gov.sg/SDOEngage/startup
+          - title: TLS
+            url: https://eservice.imda.gov.sg/tls/login.action
 ---
