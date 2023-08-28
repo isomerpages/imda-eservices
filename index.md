@@ -14,8 +14,6 @@ sections:
         options:
           - title: DAS
             url: https://eservice.imda.gov.sg/das/homepage
-          - title: ICMS
-            url: https://eservice.imda.gov.sg/icms/initializeHomePage.action
           - title: NEU PC
             url: https://eservice.imda.gov.sg/neupc/homepage.action
           - title: NORS
