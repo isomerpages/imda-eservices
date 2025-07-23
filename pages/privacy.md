@@ -1,6 +1,7 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: markdown
 ---
 1.  This is a Government of Singapore website.
   
@@ -17,6 +18,6 @@ permalink: /privacy/
   
 11.  This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. IMDA is not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
   
-13.  Please contact [qsm@imda.gov.sg](mailto:qsm@imda.gov.sg) if you
+13.  Please contact [info@imda.gov.sg](mailto:info@imda.gov.sg) if you
 * have any enquires or feedback on our data protection policies and procedures, and/or
 *  need more information on or access to data which you have provided to us in the past.
